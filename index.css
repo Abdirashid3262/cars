@@ -1,0 +1,38 @@
+img{
+  length : 20px;
+}
+h1{
+
+  font-style: oblique;
+  color: lightyellow;
+  text-align: center;
+}
+img{
+  width: 350px;
+  align: center;
+}
+h3{
+  color: orange;
+  font-style: italic;
+  font-size: 25px;
+}
+p{
+  color: black;
+  font-size: 30px;
+}
+
+h4{
+  font-style: italic;
+  color: orange;
+}
+button{
+  background-color: lightyellow;
+  font-color: white;
+}
+body{
+  background-image: url(img/C5.jpg);
+  background-size: 2009px;
+}
+p{
+  color: lightyellow;
+}
